@@ -7,7 +7,7 @@ The computer has 2 registers, an Accumulator and a Program Counter
 The computer has a 8 bit data bus, no address bus and a 8 bit ALU, it is capable of text and add/subtraction  
 This computer is not assembly compatible and cannot be programmed with a programming language  
 
-###How to use the emulator:  
+### How to use the emulator:  
 
 The emulator works a little diferent from the "real computer"  
 It has some functions like PCI, JMP, PC, PCR, OUT, TOUT, TEXT, CALC and .  
